@@ -1,0 +1,27 @@
+.todoList{
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.todoList > li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.todo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.todoText{
+    line-break: auto;
+    word-break: break-all;
+}
+
+.removeButton{
+    height: 40px;
+}
+
