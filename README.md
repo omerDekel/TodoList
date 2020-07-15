@@ -1,8 +1,10 @@
+Small UI of chores List .You may add a chore to the list or delete.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup Instructions
 
-In the project directory, you can run:
+In the project directory, run:
 
 ### `npm start`
 
